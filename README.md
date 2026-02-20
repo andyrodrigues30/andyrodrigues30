@@ -7,7 +7,7 @@
         I love building full-stack applications, experimenting with new technologies, and creating tools that simplify everyday workflows.
     </td>
     <td>
-        Explore my website: <a src="https://andrearodrigues.co.uk">andrearodrigues.co.uk</a><br>
+        Explore my website: <a href="https://andrearodrigues.co.uk">andrearodrigues.co.uk</a><br>
         You might see something cool 😉
     </td>
     </tr>
