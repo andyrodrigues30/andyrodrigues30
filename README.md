@@ -3,12 +3,12 @@
     <tbody>
     <tr>
     <td>
-        I am a Software Developer, UI Designer and Photographer.<br>
-        I love building full-stack applications, experimenting with new technologies, and creating tools that simplify everyday workflows.
+        <p>I am a Software Developer, UI Designer and Photographer.</p>
+        <p>I love building full-stack applications, experimenting with new technologies, and creating tools that simplify everyday workflows.</p>
     </td>
     <td>
-        Explore my website: <a href="https://andrearodrigues.co.uk">andrearodrigues.co.uk</a><br>
-        You might see something cool 😉
+        <p>Explore my website: <a href="https://andrearodrigues.co.uk">andrearodrigues.co.uk</a></p>
+        <p>You might see something cool 😉</p>
     </td>
     </tr>
     </tbody>
@@ -21,9 +21,9 @@
     <tr>
     <td>
         <ul>
-        <li><b>Frontend:</b> React, Next, TypeScript, Tailwind CSS, D3.js</li>
-        <li><b>Backend:</b> Express.js, FastAPI, Go, PostgreSQL, MongoDB, Neo4j</li>
-        <li><b>DevOps & Tools:</b>Docker, Git, GitHub Actions, Nginx, Jest, Figma</li>
+            <li><b>Frontend:</b> React, Next, TypeScript, Tailwind CSS, D3.js</li>
+            <li><b>Backend:</b> Express.js, FastAPI, Go, PostgreSQL, MongoDB, Neo4j</li>
+            <li><b>DevOps & Tools:</b>Docker, Git, GitHub Actions, Nginx, Jest, Figma</li>
         </ul>
     </td>
     <td align="center">
